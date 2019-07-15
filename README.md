@@ -22,8 +22,8 @@ Contar con los componentes para montar una aula para una comunidad sin conexión
 * Memoria USB Ver. 3.0
 
 # Proyectos a incluir
-[Khan Academy]: https://learningequality.org/kolibri/
-[Wikipedia]: https://www.kiwix.org/es/
+[Khan Academy]:(https://learningequality.org/kolibri/)
+[Wikipedia]:(https://www.kiwix.org/es/)
 
 # Servicios
 Chat
